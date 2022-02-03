@@ -1,0 +1,9 @@
+.idea
+node_modules/
+bower_components/
+assets/css/*.css
+assets/js/*.js
+.DS_Store
+npm-debug.log
+release
+kindling-template

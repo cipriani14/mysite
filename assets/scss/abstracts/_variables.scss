@@ -1,0 +1,12 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass variables.
+// -----------------------------------------------------------------------------
+
+// Utility Colors
+$highlight-text-color: #fff2a8;
+$font-family: 'iA Writer Duo', monospace;
+
+[data-color-mode] {
+  color: #fafafa;
+  background-color: #141414;
+}
