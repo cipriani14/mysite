@@ -36,7 +36,6 @@ gulp.task('sass:style',
       .pipe(
         sass(
           {
-            importPath: PATHS.primer.sass,
             outputStyle: 'expanded'
           }
         )
@@ -93,7 +92,7 @@ gulp.task('copy:release', function () {
         '!assets/img/src/**/*'
       ]
     )
-      .pipe(gulp.dest('release'))
+      .pipe(gulp.dest('pages'))
   }
 );
 

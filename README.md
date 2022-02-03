@@ -1,6 +1,6 @@
 # Cip
 
-
+Site for MrCippy.
 
 **Features**
 
@@ -10,7 +10,6 @@
   - CSS compression
   - JavaScript compression
   - Image compression
-- RTL Support
 
 **Prerequisites**
 
@@ -23,7 +22,7 @@ To take full advantage of cip you'll need the following:
 ## Getting started
 
 ```bash
-git clone https://code.sixteenbit.dev/sixteenbit/cip.git
+git clone https://github.com/cipriani14/mysite.git
 ```
 
 ## Available commands

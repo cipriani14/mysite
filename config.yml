@@ -18,6 +18,3 @@ PATHS:
       - "assets/js/src/**/*.js"
     dest:
       - "assets/js"
-  primer:
-    sass:
-      - "node_modules/@primer/css"
