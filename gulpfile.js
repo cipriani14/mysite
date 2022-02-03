@@ -92,7 +92,7 @@ gulp.task('copy:release', function () {
         '!assets/img/src/**/*'
       ]
     )
-      .pipe(gulp.dest('pages'))
+      .pipe(gulp.dest('gh-pages'))
   }
 );
 
