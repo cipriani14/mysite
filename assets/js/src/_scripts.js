@@ -1,10 +1,10 @@
 new TypeIt('#type', {
   speed: 60
 })
-  .type('Hi! I\'m Jason Cipriani.')
+  .type('Hi! Welcome to Sips &amp; Pies.')
   .pause(300)
   .options({speed: 45})
-  .type(' I write about technology for <a href="https://www.zdnet.com/meet-the-team/jason-cipriani/">ZDNET</a>, <a href="https://www.ign.com/person/mrcippy">IGN</a>, <a href="https://www.google.com/search?client=safari&hl=en-us&sxsrf=ALeKk01v3Eno-ashHq1NAQy7ZQbWQA-Fsg%3A1612387165408&ei=XRMbYOCrGPHptQaogYP4Cg&q=site%3Acnn.com+jason+cipriani&oq=site%3Acnn.com+jason+cipriani&gs_lcp=CgZwc3ktYWIQA1CJHVjnJWCGJ2gBcAB4AIABbogB8gKSAQM0LjGYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwigzu-h0s7uAhXxdM0KHajAAK8Q4dUDCAw&uact=5">CNN Underscored</a>, <a href="https://www.si.com/showcase/author/jason-cipriani">Sports Illustrated Showcase</a>, <a href="https://www.thestreet.com/author/jason-cipriani">The Street</a>, <a href="https://parade.com/author/jason-cipriani">Parade</a>, <a href="https://www.insidehook.com/author/jasoncipriani">InsideHook</a>, and <a href="https://www.tomsguide.com/author/jason-cipriani">Tom\'s Guide.</a> <br><br>', { delay: 400})
+  .type(' We\'re not quite ready to launch yet, but plan to open our pizza food truck in spring of 2025. Until then, please follow us on"  <a href="https://www.instagram.com/sipsandpies">Instagram</a>, <a href="https://www.facebook.com/sipsandpies">Facebook</a>, and <a href="https://www.tiktok.com/@sipsandpies">TikTok</a>.<br><br>', { delay: 400})
   .pause(200)
-  .type('Find me on <a rel="me" href="https://mrcippy.xyz/@mrcippy">Mastodon</a>, <a href="https://instagram.com/mrcippy">instagram</a>, <a href="https://facebook.com/mrcippy">facebook</a>, and <a href="https://twitter.com/MrCippy">twitter</a>. Or <a href="mailto:jason@jasoncipriani.com">email me.</a>', { delay: 400})
+  .type('We can\'t wait to share what we\'re working on with you!), { delay: 400})
   .go();
