@@ -2,6 +2,12 @@
 @import 'abstracts/variables';
 @import 'abstracts/mixins';
 
+@media (prefers-color-scheme: dark) {
+  [data-color-mode="auto"][data-dark-theme="dark"], [data-color-mode="auto"][data-dark-theme="dark"]::selection {
+    --color-accent-fg: #ea3d2e;
+  }
+}
+
 body {
   padding-top: 100px;
   font-family: $font-family;
